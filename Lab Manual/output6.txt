@@ -1,0 +1,1 @@
+{'hello': 1, 'its': 1, 'input': 1, 'file.txt': 1, 'heyy': 3, 'good': 1, 'afternoon': 1, 'ok': 1, 'okk': 1, 'by': 1}

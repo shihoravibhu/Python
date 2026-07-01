@@ -1,0 +1,5 @@
+fp = open("p1_demoOk.txt","a")
+# fp.write("Heeyyyyy")
+# fp.write("vib")
+fp.write("ok")
+fp.close()

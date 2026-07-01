@@ -1,4 +1,4 @@
-Hi everyone
+vibeveryone
 we are learning File IO
-using Python.
-I like programming in Python.
+using Python.  
+I like programming in Python.ok

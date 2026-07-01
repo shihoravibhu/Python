@@ -1,0 +1,12 @@
+Name : Vibhu
+RollNo : 101
+Avg : 97.75
+
+Name : Jay  
+RollNo : 102
+Avg : 98.25
+
+Name : Mohit
+RollNo : 103
+Avg : 97.0
+
